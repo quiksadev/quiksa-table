@@ -342,7 +342,7 @@ Alper Dursun - [@github](https://github.com/alperdrsnn) - alper@defenzysoft.com
 [issues-shield]: https://img.shields.io/github/issues/quiksadev/quiksa-table?style=for-the-badge
 [issues-url]: https://github.com/quiksadev/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/quiksadev/quiksa-table?style=for-the-badge
-[license-url]: https://github.com/quiksadev/quiksa-table/blob/master/LICENSE.txt
+[license-url]: https://github.com/quiksadev/quiksa-table/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/quiksa
 [product-screenshot]: images/product-screenshot.png
